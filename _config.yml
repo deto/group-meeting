@@ -6,7 +6,7 @@ kramdown:
   parse_block_html: true
 github: academicpages
 url: https://deto.github.io/group-meeting 
-name: Your Group Name
+name: Deto's Group
 description: A test site to learn about Jekyll
 twitter: yourtwitterhandle
 calendar: https://yourcalendarurl
